@@ -1,0 +1,40 @@
+body {
+    margin:0 auto;
+    background: cornflowerblue;
+    
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border: solid;
+    border-width: 3.5px;
+    border-color:aliceblue;
+    padding-bottom: 20px;
+}
+
+.score{
+    background: lavenderblush;
+    
+    font-size: 40px;
+    font-family: Cursed Timer ULiL Font;
+    color:tomato;
+    width:120px;  
+    text-align: center;
+}
+
+.button {
+
+     background-color: cornflowerblue;
+  color: white;
+  border: 2px solid aliceblue; 
+  border-radius: 5px;
+  font-family:Helvetica; 
+  }
+  
+  .scoreheader{
+      font-family:Cursed Timer ULiL Font;
+      color: aliceblue; 
+  }
